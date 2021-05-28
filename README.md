@@ -16,3 +16,4 @@ https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/
 -DWS: Data Warehouse Summary, summarize the data layer.
 
 • ADS：Application Data Service，Application data layer. Used by external applications.
+![Uploading image.png…]()
