@@ -19,5 +19,5 @@ https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/
 • ADS：Application Data Service，Application data layer. Used by external applications.
 
 
-## Cloud based Architecture
+## Cloud Based Architecture
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/Cloud%20Based%20Architecture.png)
