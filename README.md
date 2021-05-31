@@ -21,3 +21,5 @@ https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/
 
 ## Cloud Based Architecture
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/Cloud%20Based%20Architecture.png)
+You can check below link for original Google Draw:
+https://docs.google.com/drawings/d/1gNx9NtZdTjN_pVhkOZLEEeryTAC1pgRqUOXLwE4rhiU/edit?usp=sharing
