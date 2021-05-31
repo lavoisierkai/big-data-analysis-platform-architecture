@@ -21,6 +21,10 @@ https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/
 
 
 ## Cloud Based Architecture
+
+Below is a sample pipline I have designed by using Google Cloud Platform. The function of the pipeline is to collect customer behaviors by using GA,GTM and Google Firebase.
+Google pub/sub is a message querying tool to processing real time data, however, it is not necessary if clients only need <font color="red">OLAP</font> features.
+
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/Cloud%20Based%20Architecture.png)
 You can check below link for original Google Draw:
 https://docs.google.com/drawings/d/1gNx9NtZdTjN_pVhkOZLEEeryTAC1pgRqUOXLwE4rhiU/edit?usp=sharing
