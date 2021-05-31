@@ -1,4 +1,4 @@
-# big-data-analysis-platform-architecture
+# Big-Data-Analysis-Platform-Architecture
 
 ## On Premise Architecture
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/On%20Premise%20Architecture%20.jpg)
