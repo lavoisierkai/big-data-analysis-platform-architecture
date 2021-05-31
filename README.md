@@ -3,7 +3,7 @@
 ## On Premise Architecture
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/On%20Premise%20Architecture%20.jpg)
 
-You can check below link for original Google Draing:
+You can check below link for original Google Draw:
 https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/edit?usp=sharing
 
 ### Data model architecture specification for HIVE(HDFS)
