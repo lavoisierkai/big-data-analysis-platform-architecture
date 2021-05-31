@@ -8,6 +8,7 @@ https://docs.google.com/drawings/d/1ubyRZXlChcelpsZFDKQfWKe3GGBa32qMk93ErVQ5UMU/
 
 ### Data model architecture specification for HIVE(HDFS)
 ![alt text](https://github.com/lavoisierkai/big-data-analysis-platform-architecture-/blob/main/Hive.png)
+
 • ODS: Operational Data Store, the operational data layer, which is structurally consistent with the incremental or full data of the source system. It is equivalent to a data preparation area, and at the same time it is responsible for the recording of basic data and historical changes. Its main function is to introduce basic data into the data warehouse.
 
 • CDM: Common Data Model, the common dimensional model layer, subdivided into DWD and DWS. Its main function is to complete data processing and integration, establish consistent dimensions, construct reusable analysis and statistics-oriented detailed fact tables, and summarize common granularity indicators.
